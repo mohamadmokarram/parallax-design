@@ -18,6 +18,8 @@
 
 - Role - Frontend
 
+- watch Demo on Linkedin: [linkedin](https://www.linkedin.com/posts/mohamad-mokaram-05b873200_parallax-webpage-online-demo-activity-7331828166086275073-6YIB?utm_source=share&utm_medium=member_ios&rcm=ACoAADNiq4cBU9jAl1IU6ZVbdjeMSHyGkRPQI7E)
+
 - How to reach me : with my [linkedin](https://www.linkedin.com/in/mohamad-mokaram-05b873200/), [instagram](https://www.instagram.com/mokaram_frontdeveloper/)
 
 
