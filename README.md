@@ -10,7 +10,7 @@
 
 - Created - 2025-04-25
 
-- Technologies Used -  tailwindCss , JS , swiper, smooth-scrollbar, gsap 
+- Technologies Used -  tailwindCss , JS , swiper, smooth-scrollbar 
 
 - Role - Frontend
 
